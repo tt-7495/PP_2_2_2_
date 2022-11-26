@@ -5,7 +5,7 @@
     <artifactId>UsersManager</artifactId>
     <packaging>war</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>UsersManager Maven Webapp</name>
+    <name>UsersManager</name>
     <url>http://maven.apache.org</url>
 
 

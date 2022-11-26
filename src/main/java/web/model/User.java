@@ -52,4 +52,13 @@ public class User {
       this.surName = surName;
       this.email = email;
    }
+   @Override
+   public String toString() {
+      return "User{" +
+              "id=" + id +
+              ", name='" + name + '\'' +
+              ", surName='" + surName + '\'' +
+              ", email='" + email + '\'' +
+              '}';
+   }
 }
